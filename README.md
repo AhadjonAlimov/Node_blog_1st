@@ -6,15 +6,10 @@
 - NodeJS,
 - Express framework,
 - Mongodb,
-- Mongoose ODM,
 - Express sessions,
-- Mongoose data validation,
 - User authentication and authorization,
-- Model View Controller design pattern,
-- Express Middleware & Request interception,
-- Mongoose model hooks,
 - Password security and hashing,
-- get post methods
+- Get, Post methods
 
 # To run this project follow next steps:
 
