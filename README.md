@@ -5,6 +5,7 @@
 # Description: This project includes:
 - NodeJS,
 - Express framework,
+- edge,
 - Mongodb,
 - Express sessions,
 - User authentication and authorization,
