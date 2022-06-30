@@ -17,5 +17,3 @@
 1. MongoDB on localhost:27017
 2. Open project and `npm install`
 3. `npm run dev`
-
-Enjoy
